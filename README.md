@@ -25,6 +25,7 @@
 
 | 标题 | 网站阅读 |
 | --- | --- |
+| [Hacker News 今日TOP 20  2024-09-24](data/hackernews-daily-2024-09-24.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2024-09-24) |
 | [Hacker News 今日TOP 20  2024-09-23](data/hackernews-daily-2024-09-23.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2024-09-23) |
 | [Hacker News 今日TOP 20  2024-09-22](data/hackernews-daily-2024-09-22.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2024-09-22) |
 | [Hacker News 今日TOP 20  2024-09-21](data/hackernews-daily-2024-09-21.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2024-09-21) |
@@ -40,6 +41,12 @@
 | [Hackernews 今日TOP 20  2024-09-11](data/hackernews-daily-2024-09-11.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2024-09-11) |
 | [Hackernews 今日TOP 20  2024-09-10](data/hackernews-daily-2024-09-10.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2024-09-10) |
 | [Hackernews 今日TOP 2  2024-09-09](data/hackernews-daily-2024-09-09.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2024-09-09) |
+
+## githubhot
+
+| 标题 | 网站阅读 |
+| --- | --- |
+| [Github Trending 今日热门项目   2024-09-24](data/githubhot-daily-2024-09-24.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2024-09-24) |
 
 ## chuhaix
 
