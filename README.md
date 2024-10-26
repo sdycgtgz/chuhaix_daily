@@ -6,6 +6,7 @@
 
 | 标题 | 网站阅读 |
 | --- | --- |
+| [Product Hunt每日热榜   2024-10-24](data/producthunt-daily-2024-10-24.md) | [网站阅读](https://www.chuhaix.com/producthunt-daily-2024-10-24) |
 | [Product Hunt每日热榜   2024-10-23](data/producthunt-daily-2024-10-23.md) | [网站阅读](https://www.chuhaix.com/producthunt-daily-2024-10-23) |
 | [Product Hunt每日热榜   2024-10-22](data/producthunt-daily-2024-10-22.md) | [网站阅读](https://www.chuhaix.com/producthunt-daily-2024-10-22) |
 | [Product Hunt每日热榜   2024-10-21](data/producthunt-daily-2024-10-21.md) | [网站阅读](https://www.chuhaix.com/producthunt-daily-2024-10-21) |
@@ -55,6 +56,7 @@
 
 | 标题 | 网站阅读 |
 | --- | --- |
+| [Hacker News 今日TOP 20  2024-10-25](data/hackernews-daily-2024-10-25.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2024-10-25) |
 | [Hacker News 今日TOP 20  2024-10-24](data/hackernews-daily-2024-10-24.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2024-10-24) |
 | [Hacker News 今日TOP 20  2024-10-23](data/hackernews-daily-2024-10-23.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2024-10-23) |
 | [Hacker News 今日TOP 20  2024-10-22](data/hackernews-daily-2024-10-22.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2024-10-22) |
@@ -106,6 +108,7 @@
 
 | 标题 | 网站阅读 |
 | --- | --- |
+| [Github Trending 今日热门项目   2024-10-25](data/githubhot-daily-2024-10-25.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2024-10-25) |
 | [Github Trending 今日热门项目   2024-10-24](data/githubhot-daily-2024-10-24.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2024-10-24) |
 | [Github Trending 今日热门项目   2024-10-23](data/githubhot-daily-2024-10-23.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2024-10-23) |
 | [Github Trending 今日热门项目   2024-10-22](data/githubhot-daily-2024-10-22.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2024-10-22) |
@@ -142,6 +145,7 @@
 
 | 标题 | 网站阅读 |
 | --- | --- |
+| [ChuhaiX 出海资讯周刊第6期   2024-10-25](data/chuhaix-weekly-2024-10-25.md) | [网站阅读](https://www.chuhaix.com/chuhaix-weekly-2024-10-25) |
 | [ChuhaiX 出海资讯周刊第5期   2024-10-18](data/chuhaix-weekly-2024-10-18.md) | [网站阅读](https://www.chuhaix.com/chuhaix-weekly-2024-10-18) |
 | [ChuhaiX 出海资讯周刊第4期   2024-10-11](data/chuhaix-weekly-2024-10-11.md) | [网站阅读](https://www.chuhaix.com/chuhaix-weekly-2024-10-11) |
 | [ChuhaiX 出海资讯周刊第3期   2024-10-04](data/chuhaix-weekly-2024-10-04.md) | [网站阅读](https://www.chuhaix.com/chuhaix-weekly-2024-10-04) |
