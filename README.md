@@ -6,6 +6,7 @@
 
 | 标题 | 网站阅读 |
 | --- | --- |
+| [Product Hunt每日热榜   2024-12-01](data/producthunt-daily-2024-12-01.md) | [网站阅读](https://www.chuhaix.com/producthunt-daily-2024-12-01) |
 | [Product Hunt每日热榜   2024-11-30](data/producthunt-daily-2024-11-30.md) | [网站阅读](https://www.chuhaix.com/producthunt-daily-2024-11-30) |
 | [Product Hunt每日热榜   2024-11-29](data/producthunt-daily-2024-11-29.md) | [网站阅读](https://www.chuhaix.com/producthunt-daily-2024-11-29) |
 | [Product Hunt每日热榜   2024-11-28](data/producthunt-daily-2024-11-28.md) | [网站阅读](https://www.chuhaix.com/producthunt-daily-2024-11-28) |
@@ -93,6 +94,7 @@
 
 | 标题 | 网站阅读 |
 | --- | --- |
+| [Hacker News 今日TOP 20  2024-12-02](data/hackernews-daily-2024-12-02.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2024-12-02) |
 | [Hacker News 今日TOP 20  2024-12-01](data/hackernews-daily-2024-12-01.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2024-12-01) |
 | [Hacker News 今日TOP 20  2024-11-30](data/hackernews-daily-2024-11-30.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2024-11-30) |
 | [Hacker News 今日TOP 20  2024-11-29](data/hackernews-daily-2024-11-29.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2024-11-29) |
@@ -181,6 +183,7 @@
 
 | 标题 | 网站阅读 |
 | --- | --- |
+| [Github Trending 今日热门项目   2024-12-02](data/githubhot-daily-2024-12-02.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2024-12-02) |
 | [Github Trending 今日热门项目   2024-12-01](data/githubhot-daily-2024-12-01.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2024-12-01) |
 | [Github Trending 今日热门项目   2024-11-30](data/githubhot-daily-2024-11-30.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2024-11-30) |
 | [Github Trending 今日热门项目   2024-11-29](data/githubhot-daily-2024-11-29.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2024-11-29) |
