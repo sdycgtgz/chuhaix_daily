@@ -361,6 +361,7 @@
 
 | 标题 | 网站阅读 |
 | --- | --- |
+| [Github Trending 今日热门项目   2025-03-11](data/githubhot-daily-2025-03-11.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2025-03-11) |
 | [Github Trending 今日热门项目   2025-03-10](data/githubhot-daily-2025-03-10.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2025-03-10) |
 | [Github Trending 今日热门项目   2025-03-09](data/githubhot-daily-2025-03-09.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2025-03-09) |
 | [Github Trending 今日热门项目   2025-03-08](data/githubhot-daily-2025-03-08.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2025-03-08) |
