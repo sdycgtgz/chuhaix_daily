@@ -174,6 +174,7 @@
 
 | 标题 | 网站阅读 |
 | --- | --- |
+| [Hacker News 今日TOP 20  2025-04-13](data/hackernews-daily-2025-04-13.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2025-04-13) |
 | [Hacker News 今日TOP 20  2025-04-12](data/hackernews-daily-2025-04-12.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2025-04-12) |
 | [Hacker News 今日TOP 20  2025-04-11](data/hackernews-daily-2025-04-11.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2025-04-11) |
 | [Hacker News 今日TOP 20  2025-04-10](data/hackernews-daily-2025-04-10.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2025-04-10) |
