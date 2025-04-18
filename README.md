@@ -174,6 +174,7 @@
 
 | 标题 | 网站阅读 |
 | --- | --- |
+| [Hacker News 今日TOP 20  2025-04-17](data/hackernews-daily-2025-04-17.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2025-04-17) |
 | [Hacker News 今日TOP 20  2025-04-16](data/hackernews-daily-2025-04-16.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2025-04-16) |
 | [Hacker News 今日TOP 20  2025-04-15](data/hackernews-daily-2025-04-15.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2025-04-15) |
 | [Hacker News 今日TOP 20  2025-04-14](data/hackernews-daily-2025-04-14.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2025-04-14) |
@@ -397,6 +398,7 @@
 
 | 标题 | 网站阅读 |
 | --- | --- |
+| [Github Trending 今日热门项目   2025-04-17](data/githubhot-daily-2025-04-17.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2025-04-17) |
 | [Github Trending 今日热门项目   2025-04-16](data/githubhot-daily-2025-04-16.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2025-04-16) |
 | [Github Trending 今日热门项目   2025-04-15](data/githubhot-daily-2025-04-15.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2025-04-15) |
 | [Github Trending 今日热门项目   2025-04-14](data/githubhot-daily-2025-04-14.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2025-04-14) |
