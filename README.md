@@ -6,6 +6,7 @@
 
 | 标题 | 网站阅读 |
 | --- | --- |
+| [Product Hunt每日热榜   2025-05-25](data/producthunt-daily-2025-05-25.md) | [网站阅读](https://www.chuhaix.com/producthunt-daily-2025-05-25) |
 | [Product Hunt每日热榜   2025-05-24](data/producthunt-daily-2025-05-24.md) | [网站阅读](https://www.chuhaix.com/producthunt-daily-2025-05-24) |
 | [Product Hunt每日热榜   2025-02-19](data/producthunt-daily-2025-02-19.md) | [网站阅读](https://www.chuhaix.com/producthunt-daily-2025-02-19) |
 | [Product Hunt每日热榜   2025-02-18](data/producthunt-daily-2025-02-18.md) | [网站阅读](https://www.chuhaix.com/producthunt-daily-2025-02-18) |
@@ -175,6 +176,7 @@
 
 | 标题 | 网站阅读 |
 | --- | --- |
+| [Hacker News 今日TOP 20  2025-05-26](data/hackernews-daily-2025-05-26.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2025-05-26) |
 | [Hacker News 今日TOP 20  2025-05-25](data/hackernews-daily-2025-05-25.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2025-05-25) |
 | [Hacker News 今日TOP 20  2025-05-24](data/hackernews-daily-2025-05-24.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2025-05-24) |
 | [Hacker News 今日TOP 20  2025-05-23](data/hackernews-daily-2025-05-23.md) | [网站阅读](https://www.chuhaix.com/hackernews-daily-2025-05-23) |
@@ -437,6 +439,7 @@
 
 | 标题 | 网站阅读 |
 | --- | --- |
+| [Github Trending 今日热门项目   2025-05-26](data/githubhot-daily-2025-05-26.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2025-05-26) |
 | [Github Trending 今日热门项目   2025-05-25](data/githubhot-daily-2025-05-25.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2025-05-25) |
 | [Github Trending 今日热门项目   2025-05-24](data/githubhot-daily-2025-05-24.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2025-05-24) |
 | [Github Trending 今日热门项目   2025-05-23](data/githubhot-daily-2025-05-23.md) | [网站阅读](https://www.chuhaix.com/githubhot-daily-2025-05-23) |
